@@ -30,7 +30,7 @@ while mensagem != "sair":
 
         resultado = chamando_funcao2(a,b)
         print(resultado)
-       
+        
     elif mensagem == "*":
         print("chamando operação de multiplicação")
         
